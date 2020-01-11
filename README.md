@@ -1,6 +1,9 @@
 
 # GAN Project
 
+Author: Wensong Qiao, Xinquan Wang, Yucheng Zhang
+
+
 In this project, we explored the topic of Generative Adversarial Networks and built several models implementations using the Keras library.   
 
 GANs are a form of neural network in which two sub-networks are trained on opposing loss functions: an generator that is trained to produce data which resemble the true data, and a discriminator that is trained to discriminate between the fake data and generated data. Our goal for this poriject is to train the GAN models to reproduce pictures. We used two datasets: MNIST and SVHN.
